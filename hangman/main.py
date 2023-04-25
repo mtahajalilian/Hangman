@@ -120,7 +120,7 @@ def hangman():
 
         
     else:
-        print('\n> We expect you come again (:\n')
+        print('\n> We expect you to come back again (:\n')
         exit()
 
 
